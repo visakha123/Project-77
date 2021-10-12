@@ -16,10 +16,12 @@ var making_lower_case = capital_name.toLowerCase();
 var small_name = "visakha";
 var making_upper_case = small_name.toUpperCase();
 
-var square_root = Math.sqrt(12);
+var square_root = Math.sqrt(144);
 console.log(square_root);
 
 var maximum_number = Math.max(77,0.77);
+console.log(maximum_number);
 
 var minimum_number = Math.min(14,114);
+console.log(minimum_number);
 
